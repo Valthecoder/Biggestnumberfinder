@@ -1,5 +1,6 @@
 import tkinter as tk
-import pygame
+
+# Removed import pygame since it didn't work
 
 
 # Ask user for three inputs. Check if vowel or consonant
