@@ -1,6 +1,4 @@
 # Setting Variables and their Value
-Dollars_1 = 1000
-Pesos_1 = 9000
-Riyadh_1 = 7000
+# Ask user for three inputs. Check if vowel or consonant
 # Creating if functions
 # Design for wow factor
